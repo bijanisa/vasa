@@ -1,7 +1,7 @@
 # Vasa Audio Tour Application Pitch Website
 
 ## Project Description
-The project is a single-page, static website built with a forked Bootstrap template and hosted on Github Pages. The website describes a project that the collaborators envisioned as part of the CHI Graduate Fellowship at Michigan State University.
+The project is a single-page, static website built with a forked Bootstrap template and hosted on Github Pages. The website describes a project that the collaborators envisioned as part of the [CHI](http://chi.anthropology.msu.edu) [Graduate Fellowship](http://chi.anthropology.msu.edu/fellowships/) at Michigan State University.
 
 ## Team
  * [Michael Nelson](https://github.com/michaelnetbiz)
